@@ -1,0 +1,10 @@
+{
+  "global":{
+          "address" : "Example",
+          "displayTimeOut" :  300,
+          "isRaspberry": true,
+          "debug_level": 1
+        },
+  "additional":{
+      "updateRate": 1}
+}
